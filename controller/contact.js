@@ -94,7 +94,7 @@ const contactAdmin = async (req, res) => {
 
     const mailOptions = {
       from: process.env.USER,
-      to: "nelsonelaye@gmail.com",
+      to: "scofid1st@gmail.com",
       subject: "Request for Quote",
       html: `
         <p><b>First Name:</b> ${firstName}</p>
